@@ -271,7 +271,7 @@ class Tab(QWidget):
         stop_button = QPushButton("Stop")
         skip_button = QPushButton("Skip")
 
-        practice_time_label = QLabel("Practicing time (min)")
+        practice_time_label = QLabel("Session duration (min)")
         num_pieces_label = QLabel("Number of pieces")
 
         add_file_button.clicked.connect(self.addFile)
