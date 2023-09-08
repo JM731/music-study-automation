@@ -11,9 +11,7 @@ This program simplifies your music practice routine by automating the selection 
 3. **Automated Selection:** The program selects music pieces for your study session based on:
    - Total practice time
    - Last practice date
-   - Proficiency (lower proficiency gets priority)
-
-4. **Optimize Your Practice:** Enjoy an organized and optimized practice routine tailored to your goals and preferences.
+   - Proficiency (should be a number ranging from 1 to 10; lower proficiency gets priority)
 
 ## Screenshots
 
