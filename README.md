@@ -16,5 +16,7 @@ This program simplifies your music practice routine by automating the selection 
 4. **Optimize Your Practice:** Enjoy an organized and optimized practice routine tailored to your goals and preferences.
 
 ## Screenshots
-![Captura de tela 2023-09-08 195521](https://github.com/JM731/music-study-automation/assets/137689384/95cb2c29-5617-45ef-a582-1982ac36a3c7)
+
+![Captura de tela 2023-09-08 202434](https://github.com/JM731/music-study-automation/assets/137689384/b3afcd0a-7332-4b9d-a5b5-f974233a3fa6)
+
 ![Captura de tela 2023-09-08 195614](https://github.com/JM731/music-study-automation/assets/137689384/e6a1766e-71a6-4e27-9054-0947676ee0e0)
